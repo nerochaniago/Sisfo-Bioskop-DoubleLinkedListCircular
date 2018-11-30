@@ -1,0 +1,361 @@
+# depslib dependency file v1.0
+1524368406 source:c:\users\jamal\desktop\tubes bioskop cogan\bioskop\bioskop.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+
+1524368405 c:\users\jamal\desktop\tubes bioskop cogan\bioskop\bioskop.h
+	<iostream>
+
+1524368407 source:c:\users\jamal\desktop\tubes bioskop cogan\bioskop\film.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Film.h"
+
+1524368406 c:\users\jamal\desktop\tubes bioskop cogan\bioskop\film.h
+	<iostream>
+
+1524368833 source:c:\users\jamal\desktop\tubes bioskop cogan\bioskop\main.cpp
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<string>
+	<iostream>
+	<conio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	"Operasi.h"
+
+1524368486 c:\users\jamal\desktop\tubes bioskop cogan\bioskop\relasi.h
+	"Bioskop.h"
+	"Film.h"
+	<iostream>
+
+1524368582 c:\users\jamal\desktop\tubes bioskop cogan\bioskop\operasi.h
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	<iostream>
+
+1524368512 source:c:\users\jamal\desktop\tubes bioskop cogan\bioskop\relasi.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Relasi.h"
+
+1524369390 source:c:\users\jamal\desktop\tubes bioskop cogan\bioskop\operasi.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+
+1524368406 source:d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\bioskop.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+
+1524368405 d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\bioskop.h
+	<iostream>
+
+1524466040 source:d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\film.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Film.h"
+
+1524572216 d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\film.h
+	<iostream>
+
+1524369390 source:d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\operasi.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+
+1524573709 d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\relasi.h
+	"Bioskop.h"
+	"Film.h"
+	<iostream>
+
+1524573709 source:d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\relasi.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Relasi.h"
+
+1524555605 source:d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\main.cpp
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<string>
+	<iostream>
+	<conio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	"Operasi.h"
+
+1524368582 d:\semester 4\tubes nero and gusti\fix alhamdulillah\bioskop hehe\operasi.h
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	<iostream>
+
+1525439518 source:g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\bioskop.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+
+1524368405 g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\bioskop.h
+	<iostream>
+
+1524466040 source:g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\film.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Film.h"
+
+1524572216 g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\film.h
+	<iostream>
+
+1524369390 source:g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\operasi.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+
+1524573709 g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\relasi.h
+	"Bioskop.h"
+	"Film.h"
+	<iostream>
+
+1525495612 source:g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\relasi.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Relasi.h"
+
+1524574573 source:g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\main.cpp
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<string>
+	<iostream>
+	<conio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	"Operasi.h"
+
+1524368582 g:\tubes nero and gusti\fix alhamdulillah\bioskop hehe\operasi.h
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	<iostream>
+
+1525439518 source:g:\1301164305\bioskop.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+
+1524368405 g:\1301164305\bioskop.h
+	<iostream>
+
+1524466040 source:g:\1301164305\film.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Film.h"
+
+1524572216 g:\1301164305\film.h
+	<iostream>
+
+1524574573 source:g:\1301164305\main.cpp
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<string>
+	<iostream>
+	<conio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	"Operasi.h"
+
+1524573709 g:\1301164305\relasi.h
+	"Bioskop.h"
+	"Film.h"
+	<iostream>
+
+1524368582 g:\1301164305\operasi.h
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	<iostream>
+
+1524369390 source:g:\1301164305\operasi.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+
+1525495612 source:g:\1301164305\relasi.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Relasi.h"
+
+1525439518 source:g:\1301164305\program\bioskop.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+
+1524368405 g:\1301164305\program\bioskop.h
+	<iostream>
+
+1524466040 source:g:\1301164305\program\film.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Film.h"
+
+1524572216 g:\1301164305\program\film.h
+	<iostream>
+
+1524574573 source:g:\1301164305\program\main.cpp
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<string>
+	<iostream>
+	<conio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	"Operasi.h"
+
+1524573709 g:\1301164305\program\relasi.h
+	"Bioskop.h"
+	"Film.h"
+	<iostream>
+
+1524368582 g:\1301164305\program\operasi.h
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	<iostream>
+
+1524369390 source:g:\1301164305\program\operasi.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+
+1525495612 source:g:\1301164305\program\relasi.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Relasi.h"
+
+1525439518 source:d:\semester 4\tubes std nero\program\bioskop.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+
+1524368405 d:\semester 4\tubes std nero\program\bioskop.h
+	<iostream>
+
+1524466040 source:d:\semester 4\tubes std nero\program\film.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Film.h"
+
+1524572216 d:\semester 4\tubes std nero\program\film.h
+	<iostream>
+
+1529832946 source:d:\semester 4\tubes std nero\program\main.cpp
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<string>
+	<iostream>
+	<conio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	"Operasi.h"
+
+1524573709 d:\semester 4\tubes std nero\program\relasi.h
+	"Bioskop.h"
+	"Film.h"
+	<iostream>
+
+1524368582 d:\semester 4\tubes std nero\program\operasi.h
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+	<iostream>
+
+1524369390 source:d:\semester 4\tubes std nero\program\operasi.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Bioskop.h"
+	"Film.h"
+	"Relasi.h"
+
+1525495612 source:d:\semester 4\tubes std nero\program\relasi.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	"Relasi.h"
+
